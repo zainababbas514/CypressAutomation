@@ -1,0 +1,14 @@
+{
+    "TC-009": {
+        "category": "Computers",
+        "subCategory": "Desktops"
+    },
+    "TC-007": [
+        {
+            "searchText": "computer"
+        },
+        {
+            "searchText": "phone"
+        }
+    ]
+}
